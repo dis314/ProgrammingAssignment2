@@ -2,7 +2,7 @@
 ## there may be some benefit to caching the inverse of a matrix 
 ## rather than compute it repeatedly. 
 
-## The functions below inverses a matrix and caches the result
+## The functions below inverses a matrix and caches the result.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
